@@ -1,4 +1,5 @@
-while IFS=, read -r col1 col2
+while IFS=, read -r source destination
 do
-    echo "I got:$col1|$col2"
-done < myfile.csv
+    echo "Copying $source to $destination"
+    cp -rf $source $destination
+done < mapping.csv
