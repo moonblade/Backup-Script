@@ -1,1 +1,1 @@
-0 * * * * /Users/moonblade/workspace/backupScripts/backup.sh
+* 0 2 * * /Users/moonblade/workspace/backupScripts/backup.sh
