@@ -3,3 +3,4 @@
 /Users/moonblade/.config/rclone/rclone.conf,/Users/moonblade/workspace/dotfiles/rclone.conf
 /Users/moonblade/.bash_profile,/Users/moonblade/workspace/dotfiles/.bash_profile
 /Users/moonblade/.ssh,/Users/moonblade/workspace/dotfiles/.ssh
+/Users/moonblade/.kube,/Users/moonblade/workspace/dotfiles/.kube
