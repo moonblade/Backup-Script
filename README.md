@@ -10,3 +10,7 @@ For files in `mapping.csv`, copy it from source to destination. So that dotfiles
 
 prepareBackup and then sync workspace folder to BOX with rclone
 
+
+`restore.sh`
+
+Sync box files with workspace and restore dotfiles to original location from `mappings.csv`
