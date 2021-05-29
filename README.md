@@ -1,6 +1,6 @@
 # backup scripts
 
-Use rclone to backup important data.
+Use rclone to backup important data to box cloud.
 
 `prepareBackup.sh`
 
